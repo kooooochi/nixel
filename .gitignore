@@ -1,0 +1,10 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS directory metadata
+._*
+
+# Windows Explorer cache
+Thumbs.db
+Desktop.ini
